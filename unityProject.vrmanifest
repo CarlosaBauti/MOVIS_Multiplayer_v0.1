@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.udemy_movis_project.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\creativecomputing1\\Documents\\Carlos_Unity\\Udemy_MOVIS_project\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Udemy_MOVIS_project [Testing]"
+        }
+      }
+    }
+  ]
+}
