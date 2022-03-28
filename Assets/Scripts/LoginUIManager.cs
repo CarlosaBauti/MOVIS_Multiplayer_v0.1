@@ -5,7 +5,7 @@ using UnityEngine;
 public class LoginUIManager : MonoBehaviour
 {
     public GameObject ConnectOptionsPanelGameobject;
-    public GameObject ConnectWithNamePanelGameobject;
+    public GameObject ConnectWithMobilePanelGameobject;
 
     #region Unity Methods
 
@@ -13,7 +13,7 @@ public class LoginUIManager : MonoBehaviour
     void Start()
     {
         ConnectOptionsPanelGameobject.SetActive(true);
-        ConnectWithNamePanelGameobject.SetActive(false);
+        ConnectWithMobilePanelGameobject.SetActive(false);
     }
     #endregion
 }
