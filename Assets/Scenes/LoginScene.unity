@@ -2244,6 +2244,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 4259889452488477469, guid: 53c5608534ca7fe479e92dc2dfb7bdf1, type: 3}
+      propertyPath: m_CullTransparentMesh
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4259889452726300413, guid: 53c5608534ca7fe479e92dc2dfb7bdf1, type: 3}
       propertyPath: m_textAlignment
       value: 65535
